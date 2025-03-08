@@ -16,7 +16,7 @@ This repository contains the source code of the data management terminal program
 <ol>
 <li>Clone this repository to your local machine using the following command: 
 
-```git clone https://github.com/ralvarezdev/uru-blockbuster```
+```git clone https://github.com/ralvarezdev/uru-programming-2-blockbuster```
 </li>
 
 <li>Change your Current Working Directory to where the repository was cloned</li>
